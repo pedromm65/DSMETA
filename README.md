@@ -1,5 +1,5 @@
 # Dsmeta
-
+![unknown](https://user-images.githubusercontent.com/39133506/189468377-80d254b5-9c7a-4618-b07d-689d41c77cef.png)
 Projeto desenvolvido durante a Semana Spring React do DevSuperior. Ver o [projeto](https://dsmeta-pedrohlimadev.netlify.app/)           
 
 
@@ -13,7 +13,6 @@ Abaixo terá algumas instruções para que você consiga rodar o projeto
 ```
 ➡️ Como instalar o JDK: https://dsmeta-pedrohlimadev.netlify.app/
 ➡️ Como instalar o Node: https://balta.io/blog/node-npm-instalacao-configuracao-e-primeiros-passos
-
 ```
 
 ### Backend
